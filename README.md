@@ -5,7 +5,6 @@
 *Remove the above badge and add yours*
 
 ## Ading Codacy badge to repo
-_ _ _
 
 Go to codacy and signin with github
 Open your repository Settings, tab General, select the markup language, and copy generated code to your README file.
