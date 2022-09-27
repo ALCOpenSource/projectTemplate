@@ -1,6 +1,8 @@
-# projectTemplate
+# Project Template
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5c7db8753d9547768e4c5d69edb5a044)](https://www.codacy.com/gh/ALCOpenSource/projectTemplate/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ALCOpenSource/projectTemplate&amp;utm_campaign=Badge_Grade)
+
+*Remove the above badge and add yours*
 
 ### Ading Codacy badge to repo
 _ _ _
