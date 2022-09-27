@@ -4,7 +4,7 @@
 
 *Remove the above badge and add yours*
 
-### Ading Codacy badge to repo
+## Ading Codacy badge to repo
 _ _ _
 
 Go to codacy and signin with github
